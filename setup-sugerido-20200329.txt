@@ -1,0 +1,4 @@
+Infill = 20%
+N perímetros = 3
+N superior = ~3
+N inferior = ~3
